@@ -11,4 +11,4 @@ phases:
     commands:
       - make lint
       - make format
-      - test
+      - make test
